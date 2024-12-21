@@ -139,9 +139,13 @@ p.note { display: none; }
 
 <h2><span class="yellow">とりあえず、これだけの量を２〜３日干します</span></h2>
 <a href="IMG_1941.HEIC" target="_blank"><img src="IMG_1941.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">チェンライのショッピングモール「CENTRAL」のイベント広場では高校生の収穫の舞</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BkIdUICFcbo?si=POrqIicrQ3Gs5BDh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <br><br>
 
-<h2><span class="yellow">チェンライのショッピングモール「CENTRAL」にあるIMMIGRATION<br>バンコクまで行かずに諸手続きが可能</span></h2>
+<h2><span class="yellow">同じ「CENTRAL」にあるIMMIGRATION<br>バンコクまで行かずに諸手続きが可能</span></h2>
 <a href="IMG_1942.HEIC" target="_blank"><img src="IMG_1942.HEIC" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">同じショッピングモール内の銀行には王室崇拝の写真<br>２世代の王家写真が展示されていました</span></h2>
