@@ -71,7 +71,7 @@ left:0;
 z-index:-1;
 width:100%;
 height:100vh;
-background:url(https://torokoid.github.io/20241220_chiangrai/IMG_1941.HEIC) center/cover no-repeat;
+background:url(https://torokoid.github.io/20241220_chiangrai/IMG_1941.jpeg) center/cover no-repeat;
 -webkit-background-size:cover;/*Android4*/
 }
 
@@ -130,15 +130,15 @@ p.note { display: none; }
 
 <h2><span class="yellow">カカオが収穫されたので天日干しにします</span></h2>
 
-<a href="IMG_1937.HEIC" target="_blank"><img src="IMG_1937.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1938.HEIC" target="_blank"><img src="IMG_1938.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1937.jpeg" target="_blank"><img src="IMG_1937.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1938.jpeg" target="_blank"><img src="IMG_1938.jpeg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">チョコレートの材料ですが、元はこんな植物</span></h2>
-<a href="IMG_1939.HEIC" target="_blank"><img src="IMG_1939.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1940.HEIC" target="_blank"><img src="IMG_1940.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1939.jpeg" target="_blank"><img src="IMG_1939.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1940.jpeg" target="_blank"><img src="IMG_1940.jpeg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">とりあえず、これだけの量を２〜３日干します</span></h2>
-<a href="IMG_1941.HEIC" target="_blank"><img src="IMG_1941.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1941.jpeg" target="_blank"><img src="IMG_1941.jpeg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">チェンライのショッピングモール「CENTRAL」のイベント広場では高校生の収穫の舞</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BkIdUICFcbo?si=POrqIicrQ3Gs5BDh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -146,25 +146,25 @@ p.note { display: none; }
 <br><br>
 
 <h2><span class="yellow">同じ「CENTRAL」にあるIMMIGRATION<br>バンコクまで行かずに諸手続きが可能</span></h2>
-<a href="IMG_1942.HEIC" target="_blank"><img src="IMG_1942.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1942.jpeg" target="_blank"><img src="IMG_1942.jpeg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">同じショッピングモール内の銀行には王室崇拝の写真<br>２世代の王家写真が展示されていました</span></h2>
-<a href="IMG_1943.HEIC" target="_blank"><img src="IMG_1943.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1944.HEIC" target="_blank"><img src="IMG_1944.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1943.jpeg" target="_blank"><img src="IMG_1943.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1944.jpeg" target="_blank"><img src="IMG_1944.jpeg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">この手の商品は頻繁にみます</span></h2>
-<a href="IMG_1945.HEIC" target="_blank"><img src="IMG_1945.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1945.jpeg" target="_blank"><img src="IMG_1945.jpeg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">仏教色の濃さは、ガチャガチャの景品にも色濃く出てます</span></h2>
-<a href="IMG_1946.HEIC" target="_blank"><img src="IMG_1946.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1946.jpeg" target="_blank"><img src="IMG_1946.jpeg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">お気に入りはこれ！</span></h2>
-<a href="IMG_1947.HEIC" target="_blank"><img src="IMG_1947.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1947.jpeg" target="_blank"><img src="IMG_1947.jpeg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">知り合いに仏教関係者が普通にいるのもタイでは当たり前</span></h2>
-<a href="IMG_1948.HEIC" target="_blank"><img src="IMG_1948.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1949.HEIC" target="_blank"><img src="IMG_1949.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1950.HEIC" target="_blank"><img src="IMG_1950.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1948.jpeg" target="_blank"><img src="IMG_1948.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1949.jpeg" target="_blank"><img src="IMG_1949.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1950.jpeg" target="_blank"><img src="IMG_1950.jpeg" alt="サンプル画像" width="900" /></a>
 
 
 
