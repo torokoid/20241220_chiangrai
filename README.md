@@ -120,7 +120,7 @@ p.note { display: none; }
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~S,Hada</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2024/12/19 、タイ渡航４週目までのお花の画像まとめ !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2024/12/20 、タイでは1年中農作物が獲れます !!!</marquee></span></h1>
 
 
 
@@ -128,19 +128,36 @@ p.note { display: none; }
 
 <!--ここから下が、本体部分-->
 
-<h2><span class="yellow">お花の画像が大量になったので一枚一枚を小さく表示しています<br>全部で151枚あります、画像のクリックで拡大表示します</span></h2>
+<h2><span class="yellow">カカオが収穫されたので天日干しにします</span></h2>
 
 <a href="IMG_1937.HEIC" target="_blank"><img src="IMG_1937.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1938.HEIC" target="_blank"><img src="IMG_1938.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">チョコレートの材料ですが、元はこんな植物</span></h2>
 <a href="IMG_1939.HEIC" target="_blank"><img src="IMG_1939.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1940.HEIC" target="_blank"><img src="IMG_1940.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">とりあえず、これだけの量を２〜３日干します</span></h2>
 <a href="IMG_1941.HEIC" target="_blank"><img src="IMG_1941.HEIC" alt="サンプル画像" width="900" /></a>
+<br><br>
+
+<h2><span class="yellow">チェンライのショッピングモール「CENTRAL」にあるIMMIGRATION<br>バンコクまで行かずに諸手続きが可能</span></h2>
 <a href="IMG_1942.HEIC" target="_blank"><img src="IMG_1942.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">同じショッピングモール内の銀行には王室崇拝の写真<br>２世代の王家写真が展示されていました</span></h2>
 <a href="IMG_1943.HEIC" target="_blank"><img src="IMG_1943.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1944.HEIC" target="_blank"><img src="IMG_1944.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">この手の商品は頻繁にみます</span></h2>
 <a href="IMG_1945.HEIC" target="_blank"><img src="IMG_1945.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">仏教色の濃さは、ガチャガチャの景品にも色濃く出てます</span></h2>
 <a href="IMG_1946.HEIC" target="_blank"><img src="IMG_1946.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">お気に入りはこれ！</span></h2>
 <a href="IMG_1947.HEIC" target="_blank"><img src="IMG_1947.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">知り合いに仏教関係者が普通にいるのもタイでは当たり前</span></h2>
 <a href="IMG_1948.HEIC" target="_blank"><img src="IMG_1948.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1949.HEIC" target="_blank"><img src="IMG_1949.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1950.HEIC" target="_blank"><img src="IMG_1950.HEIC" alt="サンプル画像" width="900" /></a>
