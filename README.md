@@ -130,7 +130,20 @@ p.note { display: none; }
 
 <h2><span class="yellow">お花の画像が大量になったので一枚一枚を小さく表示しています<br>全部で151枚あります、画像のクリックで拡大表示します</span></h2>
 
-
+<a href="IMG_1937.HEIC" target="_blank"><img src="IMG_1937.HEIC" alt="サンプル画像" width="225" /></a>
+<a href="IMG_1938.HEIC" target="_blank"><img src="IMG_1938.HEIC" alt="サンプル画像" width="225" /></a>
+<a href="IMG_1939.HEIC" target="_blank"><img src="IMG_1939.HEIC" alt="サンプル画像" width="225" /></a>
+<a href="IMG_1940.HEIC" target="_blank"><img src="IMG_1940.HEIC" alt="サンプル画像" width="225" /></a>
+<a href="IMG_1941.HEIC" target="_blank"><img src="IMG_1941.HEIC" alt="サンプル画像" width="225" /></a>
+<a href="IMG_1942.HEIC" target="_blank"><img src="IMG_1942.HEIC" alt="サンプル画像" width="225" /></a>
+<a href="IMG_1943.HEIC" target="_blank"><img src="IMG_1943.HEIC" alt="サンプル画像" width="225" /></a>
+<a href="IMG_1944.HEIC" target="_blank"><img src="IMG_1944.HEIC" alt="サンプル画像" width="225" /></a>
+<a href="IMG_1945.HEIC" target="_blank"><img src="IMG_1945.HEIC" alt="サンプル画像" width="225" /></a>
+<a href="IMG_1946.HEIC" target="_blank"><img src="IMG_1946.HEIC" alt="サンプル画像" width="225" /></a>
+<a href="IMG_1947.HEIC" target="_blank"><img src="IMG_1947.HEIC" alt="サンプル画像" width="225" /></a>
+<a href="IMG_1948.HEIC" target="_blank"><img src="IMG_1948.HEIC" alt="サンプル画像" width="225" /></a>
+<a href="IMG_1949.HEIC" target="_blank"><img src="IMG_1949.HEIC" alt="サンプル画像" width="225" /></a>
+<a href="IMG_1950.HEIC" target="_blank"><img src="IMG_1950.HEIC" alt="サンプル画像" width="225" /></a>
 
 
 
